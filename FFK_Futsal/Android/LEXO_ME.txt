@@ -1,0 +1,21 @@
+PROCESVERBALET E FUTSALLIT - FFK  (ANDROID)
+
+Skedari kryesor: index.html (aplikacioni). Skedaret e tjere (manifest, sw.js, icon-*.png)
+sigurojne ikonen dhe punimin pa internet - mos i fshini.
+
+OPSIONI A (I REKOMANDUAR) - ikona ne ekranin kryesor, ekran i plote, pa internet
+Kerkon qe dosja te vendoset njehere ne nje adrese HTTPS (falas, p.sh. GitHub Pages,
+Netlify Drop ose Cloudflare Pages). Mjafton te ngarkoni dosjen "Android" ashtu si eshte.
+1. Hapni adresen e faqes ne Chrome ne telefon.
+2. Chrome menu (tre pikat) > "Install app" ose "Add to Home screen".
+3. Hapeni nga ikona: hapet si aplikacion ne ekran te plote dhe funksionon edhe offline.
+
+OPSIONI B - pa hosting (vetem nga telefoni)
+1. Kopjoni dosjen "Android" ne telefon (p.sh. ne Downloads), shpaketojeni nese eshte ZIP.
+2. Ne Chrome shkruani ne shiritin e adreses (ndryshoni emrin e dosjes nese e keni ndryshuar):
+   file:///storage/emulated/0/Download/Android/index.html
+   Nese Chrome kerkon leje per skedaret, lejojeni.
+3. Chrome menu > "Add to Home screen". Shkurtorja hapet ne shfletues.
+Shenim: ne disa versione te Android/Chrome kjo mund te mos funksionoje; atehere perdorni Opsionin A.
+
+Per te dale nga ekrani i plote (Opsioni A): terhiqni nga maja e ekranit.

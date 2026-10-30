@@ -1,0 +1,12 @@
+PROCESVERBALET E FUTSALLIT - FFK
+
+Zgjidhni dosjen sipas pajisjes:
+  Windows\  - klikoni dy here Instalo.bat (pasi te shpaketoni ZIP-in)
+  Android\  - shihni LEXO_ME.txt brenda dosjes
+  iOS\      - shihni LEXO_ME.txt brenda dosjes
+
+KYCJA E PROTOKOLLIT
+Pas ndeshjes, butoni "Ruaj protokollin" (te Vërejtje dhe nënshkrime, ose në anën e djathtë) e ruan dhe e kyç protokollin.
+Për ta hapur përsëri për editim kërkohet fjalëkalimi i përgjegjësit të garës:
+emri i skuadrës vendase + java e ndeshjes, pa hapësira (shkronja të mëdha ose të vogla nuk ka rëndësi).
+Shembull: FC13QERSHORI7  ose  FCLIQENI8

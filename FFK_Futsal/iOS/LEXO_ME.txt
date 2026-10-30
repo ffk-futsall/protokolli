@@ -1,0 +1,17 @@
+PROCESVERBALET E FUTSALLIT - FFK  (iPhone / iPad)
+
+Skedari kryesor: index.html (aplikacioni). Skedaret e tjere (manifest, sw.js, ikonat)
+sigurojne ikonen dhe punimin pa internet - mos i fshini.
+
+SHENIM I RENDESISHEM: iOS/Safari nuk mund ta hapin dhe nuk lejojne shtimin ne ekranin kryesor
+te nje skedari HTML qe gjendet vetem ne telefon (app Files). Per kete duhet qe dosja te
+vendoset njehere ne nje adrese HTTPS (falas, p.sh. GitHub Pages, Netlify Drop ose
+Cloudflare Pages). Ngarkoni dosjen "iOS" ashtu si eshte.
+
+HAPAT (ne iPhone/iPad, vetem me Safari)
+1. Hapni adresen e faqes ne Safari.
+2. Shtypni butonin Share (katrori me shigjete) > "Add to Home Screen" > Add.
+3. Hapeni nga ikona: hapet ne ekran te plote (pa shiritin e Safari-t) dhe funksionon edhe offline
+   pasi te jete hapur njehere me internet.
+
+Shenim: duhet te jete Safari; Chrome/Firefox ne iOS nuk e shtojne si aplikacion te plote.

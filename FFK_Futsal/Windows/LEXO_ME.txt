@@ -1,0 +1,16 @@
+PROCESVERBALET E FUTSALLIT - FFK
+
+1. Shpaketoni dosjen ZIP (kliko me te djathten > Extract All > Extract).
+   MOS e hapni Instalo.bat direkt brenda ZIP-it - nuk punon.
+2. Hapni dosjen e shpaketuar dhe klikoni dy here "Instalo.bat".
+   Nese Windows shfaq paralajmerim blu: More info > Run anyway.
+3. Ne desktop do te krijohet shkurtorja "Procesverbalet e Futsallit" me logon e FFK.
+   Aplikacioni hapet automatikisht ne ekran te plote (si me F11) permes Edge ose Chrome.
+   Per te dale nga ekrani i plote: shtypni F11 (ose mbani shtypur Esc).
+
+Nese shkurtorja nuk krijohet, aplikacioni mund te hapet gjithsesi duke klikuar dy here:
+  %LOCALAPPDATA%\FFK_Futsal\FFK_Futsal_Protokolli.html
+(ngjiteni kete rruge ne File Explorer)
+
+Pas instalimit mund ta fshini ZIP-in. Aplikacioni funksionon edhe pa internet.
+Per version te ri: shpaketoni ZIP-in e ri dhe hapni perseri Instalo.bat.
